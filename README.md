@@ -1,1 +1,6 @@
 # PPTGenerator
+
+flask
+
+python-pptx
+
